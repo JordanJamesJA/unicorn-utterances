@@ -645,5 +645,19 @@
 		"color": "#ef5f17",
 		"roles": [],
 		"achievements": ["partner"]
+	},
+	{
+		"id": "JordanJamesJA",
+		"name": "Jay",
+		"firstName": "Jordan",
+		"lastName": "James",
+		"description": "Just an ambitious isalnd boy tyring to have fun with code. :)",
+		"socials": {
+			"github": "JordanJamesJA"
+		},
+		"pronouns": "he/him",
+		"profileImg": "./mad.png",
+		"color": "#03045e",
+		"roles": ["author"]
 	}
 ]
